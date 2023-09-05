@@ -59,7 +59,7 @@ function Form() {
     return (
         <div className="big trans">
             <form>
-
+                <h1>GG</h1>
                 <img className="mb-4" src="https://media4.giphy.com/media/5axRZ5SMhky9Kj60xk/200w.webp?cid=ecf05e47puw8b7s6huhwstu5hxmb0y7hkeligl3evd052xru&rid=200w.webp&ct=s" alt="" width="72" height="57"></img>
                 <h1 className="h3 mb-3 fw-normal wh word">Spread love 🤍 across the world!!</h1>
 
